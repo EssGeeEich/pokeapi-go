@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/mtslzr/pokeapi-go"
+	"github.com/EssGeeEich/pokeapi-go"
 	"github.com/stretchr/testify/assert"
 )
 
